@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709788068 source:d:\codeblockapps\foundation1\arrayandmetods\main.cpp
+	<iostream>
+	<vector>
+
